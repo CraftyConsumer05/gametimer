@@ -1,0 +1,31 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GameClock",
+            "request": "launch",
+            "mainClass": "GameClock",
+            "projectName": "gametimer_53580046"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "TimeDisplayUI",
+            "request": "launch",
+            "mainClass": "TimeDisplayUI",
+            "projectName": "gametimer_53580046",
+            "noDebug": false,
+            "__progressId": "b21abb37-e006-4ae7-9812-e471103a1264",
+            "__origin": "internal"
+        }
+    ]
+}
